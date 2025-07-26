@@ -1,47 +1,46 @@
 # Singly Linked List (SLL)
 
-A Singly Linked List is a linear data structure where each element is a node that stores data and a pointer to the next node. It is used when we want to save memory and need dynamic data storage.
+This folder contains beginner-friendly Python implementations of **Singly Linked List (SLL)** operations.
+
+## 📁 Files Included
+
+- `sll_code_insertion.py` — Handles:
+  - Insertion at the beginning
+  - Insertion at the middle (specific position)
+  - Insertion at the end
+
+- `sll_code_deletion.py` — Handles:
+  - Deletion from the beginning
+  - Deletion from the middle (specific position)
+  - Deletion from the end
 
 ---
 
-##  Node Structure
+## 📚 Concepts Covered
 
-Each node contains:
-- Data
-- A pointer to the next node
-
-```python
-class Node:
-    def __init__(self, data):
-        self.data = data
-        self.next = None
+- What is a Singly Linked List (SLL)?
+- How nodes are created using Python classes
+- How `head` works in SLL
+- Step-by-step traversal and modification of nodes
+- Print/display logic for visualization
+- Beginner-friendly structure with comments
 
 ---
 
-##  Basic Operations
+## Tips for Beginners
+-Start by reading through the code slowly.
 
-1. Insert at beginning
-2. Insert at end
-3. Delete from beginning
-4. Delete from end
-5. Traverse the list
+-Try modifying values and rerunning the program to see changes.
 
----
-
-##  Why SLL?
-
-- Dynamic in size
-- Easy insertion/deletion at beginning
-- Less memory usage than arrays
+-Always draw the linked list on paper if you get confused.
 
 ---
 
-##  What’s Next?
+## 💻 How to Run the Code
 
-This is the first step in my DSA journey.
-I'll soon upload:
-- Python code for each SLL operation
+```bash
+# For insertion operations
+python sll_code_insertion.py
 
-Stay tuned! 
-
-
+# For deletion operations
+python sll_code_deletion.py
