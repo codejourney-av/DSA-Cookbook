@@ -41,8 +41,6 @@ class Node:
 This is the first step in my DSA journey.
 I'll soon upload:
 - Python code for each SLL operation
-- Visual explanations
-- Practice questions and notes
 
 Stay tuned! 
 
