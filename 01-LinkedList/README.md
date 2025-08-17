@@ -1,5 +1,4 @@
-Here’s a more **detailed and beginner-friendly** version of your Linked List README.
-I’ve kept it technical enough for GitHub, but with extra clarity, diagrams in text form, and a better flow so anyone reading it gets the concept quickly.
+
 
 ---
 
