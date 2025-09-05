@@ -66,15 +66,5 @@ if __name__ == "__main__":
 
 
 
-## Implementations in this repository
 
-This folder contains different implementations of stacks in Python:
-
-- [`stack_list.py`](./stack_list.py): Basic stack implementation using a Python list  
-- [`stack_list_extend.py`](./stack_list_extend.py): Using Python list methods for stack operations  
-- [`stack_sll.py`](./stack_sll.py): Stack implemented with **singly linked list**  
-- [`stack_sll_inherent.py`](./stack_sll_inherent.py): Inheritance-based linked list stack  
-- [`stack_sll_import.py`](./stack_sll_import.py): Stack built by importing linked list class  
-
----
  
