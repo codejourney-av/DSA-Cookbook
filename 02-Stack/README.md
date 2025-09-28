@@ -73,7 +73,7 @@ This folder contains multiple approaches to implement a stack:
 stack_list.py
  → Basic stack using Python list
 
-stack_extended_list.py
+stack_list_extend.py
  → Stack using list methods (extend, etc.)
 
 stack_sll.py
@@ -82,5 +82,3 @@ stack_sll.py
 stack_sll_inherent.py
  → Linked List stack using Inheritance
 
-stack_sll_import.py
- → Stack built by importing linked list class
